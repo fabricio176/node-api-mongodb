@@ -1,4 +1,4 @@
-## Como rodar o projeto abaixo ?
+## Como rodar o projeto abaixo/ How to run the below project ?
 
 #### 
 
